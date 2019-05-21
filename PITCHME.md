@@ -6,6 +6,7 @@
 
 # WHAT'S SakeBash？
 Repro CTO joker。
+
 元ストアカCTO兼CSO、現株式会社大黒屋CTO兼CSO。唎酒師の北川氏。
 日本酒LOVEな2人が選んだお酒を片手にReproの人たちをアレコレ話す素敵なミートアップ！
 
