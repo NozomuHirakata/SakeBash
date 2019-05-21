@@ -4,7 +4,7 @@
 
 ---
 
-# WHAT'S SakeBash？
+## WHAT'S SakeBash？
 Repro CTO joker。
 
 元ストアカCTO兼CSO、現大黒屋CTO兼CSO。
